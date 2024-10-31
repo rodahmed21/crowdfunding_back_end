@@ -1,12 +1,12 @@
 # Crowdfunding Back End
-{{ your name here }}
+{{ Roda Ahmed}}
 
 ## Planning:
-### Concept/Name
-{{ Include a short description of your website concept here. }}
+### Concept/Name 
+EmpowerEd - EduEmpower is a crowdfunding initiative dedicated to transforming lives through education in third-world countries. By pledging your support, you contribute directly to the educational journeys of individuals striving for a better future. 
 
 ### Intended Audience/User Stories
-{{ Who are your intended audience? How will they use the website? }}
+The intended audience includes anyone interested in supporting educational projects through donations.
 
 ### Front End Pages/Functionality
 - {{ A page on the front end }}

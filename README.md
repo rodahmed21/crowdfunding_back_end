@@ -58,7 +58,7 @@ This design enhances the user experience by providing straightforward access to 
 
 
 ### DB Schema
-"C:\Users\ahmed\OneDrive\Pictures\backend\DB S.png"
+![Example Image](/img/DB%20S.png)
 
 Creating Users in Insomnia
 1. Choose a new HTTP Request 
@@ -72,6 +72,7 @@ Creating Users in Insomnia
 "email": "<your email>" 
 }
 5. Hit send.
+![Example Image](/img/create%20user%20screenshot.png)
 
 
 Creating Projects on Insomnia:
@@ -93,6 +94,9 @@ Creating Projects on Insomnia:
 7. Where it says prefix, input “token”.
 8. Hit send.
 
+![Example Image](img/create%20project%20screesnhot.png)
+
+
 How to authorise users utilising token authentication on Insomnia:
 1. Create a new HTTP Request.
 2. Enter the url as (https://empowered-c706f0b2c6b1.herokuapp.com/api-token-auth/)
@@ -103,3 +107,5 @@ How to authorise users utilising token authentication on Insomnia:
 }
 5. Hit send.
 6. The token should appear under Preview.
+
+![Example Image](/img/auth%20token.png)
